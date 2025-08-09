@@ -1,0 +1,14 @@
+body {
+  font-family: Roboto, Arial, sans-serif;
+  margin: 0;
+}
+.app-header {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+.container {
+  padding: 24px;
+}
+.field-card {
+  padding: 12px;
+  margin-bottom: 8px;
+}
